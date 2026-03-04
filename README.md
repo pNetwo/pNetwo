@@ -14,8 +14,6 @@
 
 Desenvolvedor Front-End | React & ecossistema JavaScript. Buscando minha primeira oportunidade formal no mercado, mas já trazendo a bagagem prática de quem desenvolve e gerencia aplicações e domínios próprios. Meu foco é construir interfaces que resolvem problemas reais.
 
-📍 **Localização:** Itapeva, SP - Brasil
-
 ### 👨‍💻 Sobre mim
 
 * 💻 Focado no desenvolvimento **Front-End** com forte atuação em **React, JavaScript, HTML5 e CSS3**.
