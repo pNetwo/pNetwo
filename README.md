@@ -2,7 +2,7 @@
 
 **Desenvolvedor Front-End | Criando interfaces dinâmicas e experiências web** 🚀
 
-<div align="left">
+#<div align="left">
   <a href="https://www.linkedin.com/in/paulo-neto-b967481b6/" target="_blank">
     <img src="https://img.shields.io/badge/-Paulo Neto-00875F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
