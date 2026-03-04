@@ -1,4 +1,4 @@
-# Olá! 👋 Sou o **Paulo Neto**
+# **Paulo Neto**
 
 **Desenvolvedor Front-End | Criando interfaces dinâmicas e experiências web** 🚀
 
@@ -21,5 +21,5 @@ Sou um desenvolvedor apaixonado por transformar lógica e design em código limp
 
 ### 📫 Como me encontrar
 
-* **LinkedIn:** [https://www.linkedin.com/in/paulo-neto-b967481b6/]
-* **E-mail:** [paulo_bneto@hotmail.com]
+* **LinkedIn:** https://www.linkedin.com/in/paulo-neto-b967481b6
+* **E-mail:** paulo_bneto@hotmail.com
