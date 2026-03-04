@@ -12,7 +12,7 @@
   </a>
 </p>
 
-Desenvolvedor Front-End Júnior | React & ecossistema JavaScript. Buscando minha primeira oportunidade formal no mercado, mas já trazendo a bagagem prática de quem desenvolve e gerencia aplicações e domínios próprios. Meu foco é construir interfaces que resolvem problemas reais.
+Desenvolvedor Front-End | React & ecossistema JavaScript. Buscando minha primeira oportunidade formal no mercado, mas já trazendo a bagagem prática de quem desenvolve e gerencia aplicações e domínios próprios. Meu foco é construir interfaces que resolvem problemas reais.
 
 📍 **Localização:** Itapeva, SP - Brasil
 
