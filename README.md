@@ -1,4 +1,4 @@
-# Olá! 👋 Sou o [Paulo Neto]
+# Olá! 👋 Sou o **Paulo Neto**
 
 **Desenvolvedor Front-End | Criando interfaces dinâmicas e experiências web** 🚀
 
