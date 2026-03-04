@@ -2,7 +2,7 @@
 
 **Desenvolvedor Front-End | Criando interfaces dinâmicas e experiências web** 🚀
 
-<p align="left">
+<div align="left">
   <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-00875F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -10,7 +10,7 @@
   <a href="mailto:paulo_bneto@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-paulo__bneto@hotmail.com-00875F?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email">
   </a>
-</p>
+</div>
 
 Sou um desenvolvedor apaixonado por transformar lógica e design em código limpo e funcional. Focado no ecossistema JavaScript, busco constantemente aprimorar minhas habilidades na construção de interfaces de usuário, desde landing pages de alta conversão até aplicações web complexas e interativas.
 
