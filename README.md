@@ -12,8 +12,6 @@
   </a>
 </p>
 
-Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
-
 <br>
 
 Sou um desenvolvedor apaixonado por transformar lógica e design em código limpo e funcional. Focado no ecossistema JavaScript, busco constantemente aprimorar minhas habilidades na construção de interfaces de usuário, desde landing pages de alta conversão até aplicações web complexas e interativas.
