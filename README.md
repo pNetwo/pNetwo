@@ -3,12 +3,12 @@
 **Desenvolvedor Front-End | Criando interfaces dinâmicas e experiências web** 🚀
 
 <div align="left">
-  <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/paulo-neto-b967481b6/" target="_blank">
     <img src="https://img.shields.io/badge/-Paulo Neto-00875F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="mailto:paulo_bneto@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-paulo__bneto@hotmail.com-00875F?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-paulo_bneto@hotmail.com-00875F?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email">
   </a>
 </div>
 
