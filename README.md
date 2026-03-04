@@ -2,6 +2,16 @@
 
 **Desenvolvedor Front-End | Criando interfaces dinâmicas e experiências web** 🚀
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/paulo-neto-b967481b6/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="mailto:paulo_bneto@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-green?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
+</div>
+
 Sou um desenvolvedor apaixonado por transformar lógica e design em código limpo e funcional. Focado no ecossistema JavaScript, busco constantemente aprimorar minhas habilidades na construção de interfaces de usuário, desde landing pages de alta conversão até aplicações web complexas e interativas.
 
 📍 **Localização:** Itapeva, SP - Brasil (Disponível para Remoto)
@@ -18,18 +28,3 @@ Sou um desenvolvedor apaixonado por transformar lógica e design em código limp
 * **Linguagens & Web:** JavaScript (ES6+), HTML5, CSS3
 * **Frameworks & Bibliotecas:** React.js
 * **Ferramentas:** Git, GitHub, Figma (para extração de assets), VS Code
-
-### 📫 Como me encontrar
-
-* **LinkedIn:** https://www.linkedin.com/in/paulo-neto-b967481b6
-* **E-mail:** paulo_bneto@hotmail.com
-  
-<div align="center">
-  <a href="https://www.linkedin.com/in/paulo-neto-b967481b6" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  
-  <a href="mailto:paulo_bneto@hotmail.com" target="_blank">
-    <img src="paulo_bneto@hotmail.com" alt="Email">
-  </a>
-</div>
