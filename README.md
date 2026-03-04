@@ -12,7 +12,7 @@
   </a>
 </p>
 
-Sou um desenvolvedor apaixonado por transformar lógica e design em código limpo e funcional. Focado no ecossistema JavaScript, busco constantemente aprimorar minhas habilidades na construção de interfaces de usuário, desde landing pages de alta conversão até aplicações web complexas e interativas.
+Desenvolvedor Front-End Júnior | React & ecossistema JavaScript. Buscando minha primeira oportunidade formal no mercado, mas já trazendo a bagagem prática de quem desenvolve e gerencia aplicações e domínios próprios. Meu foco é construir interfaces que resolvem problemas reais.
 
 📍 **Localização:** Itapeva, SP - Brasil
 
