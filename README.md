@@ -23,3 +23,13 @@ Sou um desenvolvedor apaixonado por transformar lógica e design em código limp
 
 * **LinkedIn:** https://www.linkedin.com/in/paulo-neto-b967481b6
 * **E-mail:** paulo_bneto@hotmail.com
+  
+<div align="center">
+  <a href="https://www.linkedin.com/in/paulo-neto-b967481b6" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="mailto:paulo_bneto@hotmail.com" target="_blank">
+    <img src="paulo_bneto@hotmail.com" alt="Email">
+  </a>
+</div>
