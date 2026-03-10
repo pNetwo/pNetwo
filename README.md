@@ -16,13 +16,13 @@ Desenvolvedor Front-End | React & ecossistema JavaScript. Buscando minha primeir
 
 ### 👨‍💻 Sobre mim
 
-* 💻 Focado no desenvolvimento **Front-End** com forte atuação em **React, JavaScript, HTML5 e CSS3**.
+* 💻 Focado no desenvolvimento **Front-End** com forte atuação em **React, Tailwind, JavaScript e TypeScript**.
 * 🏗️ Atualmente desenvolvendo projetos independentes, que vão desde sistemas web estruturados até interfaces e lógicas de estado.
 * 🚀 Transformando o aprendizado contínuo (bootcamps e estudos aprofundados) em projetos reais para clientes e iniciativas próprias.
 * 🎯 **Meu foco atual:** Aprimorar arquitetura de componentes, gerenciamento de estado avançado e performance no front-end.
 
 ### 🛠️ Minhas Tecnologias
 
-* **Linguagens & Web:** JavaScript (ES6+), HTML5, CSS3
-* **Frameworks & Bibliotecas:** React.js
-* **Ferramentas:** Git, GitHub, Figma (para extração de assets), VS Code
+* **Linguagens & Web:** HTML5, CSS3, JavaScript, TypeScript
+* **Frameworks & Bibliotecas:** React.js, Node.js
+* **Ferramentas:** Git, GitHub, VS Code
