@@ -1,6 +1,6 @@
 # **Paulo Neto**
 
-**Desenvolvedor Full-Stack | Criando interfaces dinâmicas e experiências web** 🚀
+**Desenvolvedor Full-Stack | Focado no desenvolvimento Front-End ** 🚀
 
 <p align="left">
   <a href="https://www.linkedin.com/in/paulo-neto-b967481b6/" target="_blank">
